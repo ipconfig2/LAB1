@@ -14,7 +14,7 @@
             <asp:Label ID="Label2" runat="server" Text="First Name:"></asp:Label>
             <asp:TextBox ID="txtName" runat="server"></asp:TextBox>
             <asp:Button ID="Button1" runat="server" Text="Submit" />
-            <asp:Label ID="lblHello" runat="server" Text="" Font-Bold="True" Font-Italic="True"></asp:Label>
+            <asp:Label ID="lblHellO" runat="server" Text="" Font-Bold="True" Font-Italic="True"></asp:Label>
 
         </div>
     </form>
