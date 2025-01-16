@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <asp:Label ID="lblHello" runat="server" Text="lblHello" Font-Bold="True" Font-Italic="True"></asp:Label>
+            <asp:Label ID="lblHello2" runat="server" Text="lblHello" Font-Bold="True" Font-Italic="True"></asp:Label>
             <asp:Literal ID="litName" runat="server"></asp:Literal>
             <asp:Label ID="Label2" runat="server" Text="First Name:"></asp:Label>
             <asp:TextBox ID="txtName" runat="server"></asp:TextBox>
